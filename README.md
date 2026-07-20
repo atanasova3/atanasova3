@@ -8,12 +8,12 @@
   <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=f778ba&center=true&vCenter=true&width=900&height=44&lines=%22Software%20and%20cathedrals%20are%20much%20the%20same%20%E2%80%94%20first%20we%20build%20them%2C%20then%20we%20pray.%22%20%E2%80%94%20Sam%20Redwine" alt="Typing headlines" />
 </p>
 
-### 🚀 About Me
+### About Me
 
-🔭 &nbsp;I'm currently working on **Locus**  
-⚡ &nbsp;Fun fact: **(i have no idea what I'm doing)**
+ &nbsp;I'm currently working on **Locus**  
+ &nbsp;Fun fact: **(i have no idea what I'm doing)**
 
-### 🛠️ Tech Stack
+###  Tech Stack
 
 <p align="left">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
@@ -31,7 +31,7 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
 </p>
 
-### 🔗 Connect With Me
+###  Connect With Me
 
 <p align="left">
   <a href="https://instagram.com/a.atans0vwa_" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
@@ -39,18 +39,16 @@
   <a href="mailto:adelinaatanasova29@itpg-varna.bg" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
-### 📊 GitHub Stats
+###  GitHub Stats
 
 <p align="center">
   <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=atanasova3&show_icons=true&theme=tokyonight&title_color=db61a2&icon_color=db61a2&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
   <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=atanasova3&layout=compact&theme=tokyonight&title_color=db61a2&icon_color=db61a2&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
 </p>
 
-### 📈 Contribution Graph
+###  Contribution Graph
 
 <p align="center">
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=atanasova3&bg_color=00000000&color=db61a2&line=db61a2&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
 </p>
 
----
-<p align="center"><i>⭐️ From <a href="https://github.com/atanasova3">atanasova3</a></i></p>
