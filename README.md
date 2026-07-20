@@ -52,11 +52,5 @@
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=atanasova3&bg_color=00000000&color=db61a2&line=db61a2&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
 </p>
 
-### 💭 Dev Quote
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev quote" />
-</p>
-
 ---
 <p align="center"><i>⭐️ From <a href="https://github.com/atanasova3">atanasova3</a></i></p>
